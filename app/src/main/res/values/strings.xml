@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppSendEmail</string>
+    <string name="textTitulo">App Send Email</string>
+  <string name="textAssunto">Assunto:</string>
+  <string name="textMensagem">Mensagem:</string>
+  <string name="btnEnviarEmail">Enviar Email</string>
 </resources>
